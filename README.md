@@ -1,6 +1,6 @@
 # Lego Avatar
 
-> **[DEMO](https://father-lox.github.io/labs_js_lego-avatar/)**
+> **[DEMO](https://orionchar.github.io/labs_js_lego-avatar/)**
 
 > Vue 3 ⋅ TypeScript ⋅ Canvas
 
